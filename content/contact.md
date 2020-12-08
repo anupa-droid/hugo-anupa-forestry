@@ -14,4 +14,6 @@ I will do my best to get back to you soon!
 
 #### Anupa Abraham
 
-[anupasabraham@gmail.com](mailto:anupasabraham@gmail.com) [https://www.linkedin.com/in/anupa-abraham-b86562105/](https://www.linkedin.com/in/anupa-abraham-b86562105/ "https://www.linkedin.com/in/anupa-abraham-b86562105/")
+anupasabraham@gmail.com
+
+https://www.linkedin.com/in/anupa-abraham-b86562105/
