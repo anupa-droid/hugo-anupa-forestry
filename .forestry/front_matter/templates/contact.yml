@@ -12,6 +12,12 @@ fields:
   name: omit_header_text
   label: omit_header_text
   default: true
+- name: add_media
+  type: file
+  config:
+    maxSize: 
+  label: add media
+  default: "/images/melinda-gimpel-5ne6mmqtido-unsplash.jpg"
 - type: text
   name: type
   label: type
