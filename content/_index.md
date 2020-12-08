@@ -1,7 +1,11 @@
 ---
 title: Anupa
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
+featured_image: "/images/leone-venter-viem9bdzkfo-unsplash.jpg"
 description: Technology | Music | Books | Musings
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+**Welcome**
+
+There's much to see here. So, take your time, look around. Then make sure to drop me a line.
+
+I look forward to hearing from you.
