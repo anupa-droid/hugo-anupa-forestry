@@ -4,7 +4,7 @@ description = ""
 disable_share = false
 draft = true
 featured_image = "/images/malte-schmidt-engr5ybjqkq-unsplash.jpg"
-tags = ["scene"]
+tags = []
 title = "DevOps in a nutshell"
 
 +++
