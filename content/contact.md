@@ -1,7 +1,7 @@
 ---
 title: Contact
-featured_image: images/notebook.jpg
-omit_header_text: true
+featured_image: "/images/antoine-barres-jay5bqvyf5a-unsplash.jpg"
+omit_header_text: false
 description: We'd love to hear from you
 type: page
 menu:
