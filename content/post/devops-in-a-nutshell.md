@@ -3,7 +3,7 @@ date = 2020-12-08T10:30:34Z
 description = ""
 disable_share = false
 draft = true
-featured_image = "/images/malte-schmidt-engr5ybjqkq-unsplash.jpg"
+featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 tags = []
 title = "DevOps in a nutshell"
 
