@@ -8,9 +8,6 @@ fields:
 - type: text
   name: description
   label: description
-- type: file
-  name: featured_image
-  label: featured_image
 - type: boolean
   name: omit_header_text
   label: omit_header_text
@@ -20,13 +17,5 @@ fields:
   label: type
   default: page
   hidden: true
-- name: mediacustomise
-  type: blocks
-  label: mediacustomise
-  template_types:
-  - contact
-  config:
-    min: 
-    max: 
 pages:
 - content/contact.md
