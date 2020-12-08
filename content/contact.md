@@ -4,6 +4,7 @@ featured_image: "/images/melinda-gimpel-5ne6mmqtido-unsplash.jpg"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
+add_media: "/images/notebook.jpg"
 menu:
   main: {}
 
