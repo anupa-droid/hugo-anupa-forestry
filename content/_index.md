@@ -1,5 +1,5 @@
 ---
-title: Anupa
+title: Home
 featured_image: "/images/leone-venter-viem9bdzkfo-unsplash.jpg"
 description: Technology | Music | Books | Musings
 
